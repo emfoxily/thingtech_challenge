@@ -2,6 +2,7 @@
   "name": "thingtech",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://warm-ravine-40926.herokuapp.com/",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.7.0",
